@@ -1,4 +1,4 @@
-#Custom Chatbot with LLM Project
+#Custom-Chatbot-using-Large-Language-Model-LLM-Project
 
 Welcome to our custom chatbot project utilizing the LLM (Large Language Model) architecture. This project aims to create a custom chatbot using the Language Model API (LLM) integrated with PDF data. 
 With this chatbot, users can interactively access and customize information from PDF documents through a conversational interface.
